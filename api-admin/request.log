@@ -1,0 +1,100 @@
+REQUEST DATE : July 17th 2022, 12:12:23 pm
+API URL : http://localhost:3011/api/user
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:12:54 pm
+API URL : http://localhost:3011/api/user/login
+API PARAMETER : {"type":1,"email":"ravipatel4404@gmail.com","password":"Ravi@6219","role":2,"phone_number":"","token_id":""}
+
+REQUEST DATE : July 17th 2022, 12:13:27 pm
+API URL : http://localhost:3011/api/user/login
+API PARAMETER : {"type":1,"email":"anujchavda0852@gmail.com","password":"Anuj$0812","role":2,"phone_number":"","token_id":""}
+
+REQUEST DATE : July 17th 2022, 12:13:27 pm
+API URL : http://localhost:3011/api/user
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:13:28 pm
+API URL : http://localhost:3011/api/user
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:13:53 pm
+API URL : http://localhost:3011/api/user
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:13:53 pm
+API URL : http://localhost:3011/api/user
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:14:41 pm
+API URL : http://localhost:3011/api/group/subscribe?page=1&limit=10
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:14:41 pm
+API URL : http://localhost:3011/api/group?page=1&limit=10
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:14:41 pm
+API URL : http://localhost:3011/api/tip/investor?status=2&page=1&limit=10
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:14:41 pm
+API URL : http://localhost:3011/api/group?page=1&limit=10
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:14:49 pm
+API URL : http://localhost:3011/api/user
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:15:27 pm
+API URL : http://localhost:3011/api/user/login
+API PARAMETER : {"type":1,"email":"anujchavda08@gmail.com","password":"Anuj$0812","role":1,"phone_number":"","token_id":""}
+
+REQUEST DATE : July 17th 2022, 12:15:27 pm
+API URL : http://localhost:3011/api/user
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:15:28 pm
+API URL : http://localhost:3011/api/user
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:15:37 pm
+API URL : http://localhost:3011/api/tip?status=&page=1&limit=10&search=
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:15:37 pm
+API URL : http://localhost:3011/api/group/61f52cb5d043c7d92468a04b
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:15:37 pm
+API URL : http://localhost:3011/api/group/members/61f52cb5d043c7d92468a04b
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:15:37 pm
+API URL : http://localhost:3011/api/tip?status=2&page=1&limit=10&search=
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:15:37 pm
+API URL : http://localhost:3011/api/tip/list?consultant=61f52cb5d043c7d92468a04b
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:15:37 pm
+API URL : http://localhost:3011/api/group/61f52cb5d043c7d92468a04b
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:16:01 pm
+API URL : http://localhost:3011/api/user/get-member?page=1&limit=10&flag=
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:16:01 pm
+API URL : http://localhost:3011/api/consultant_payment/61f52cb5d043c7d92468a04b?page=1&limit=10
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:16:01 pm
+API URL : http://localhost:3011/api/tip?status=&page=1&limit=10&search=
+API PARAMETER : {}
+
+REQUEST DATE : July 17th 2022, 12:17:29 pm
+API URL : http://localhost:3011/api/user
+API PARAMETER : {}
+
