@@ -20,6 +20,7 @@ const ConsultantPaymentRoutes = require('./api/routes/consultant_payment');
 const FollowTipRoutes = require('./api/routes/followtip');
 const portfolioRoutes = require('./api/routes/portfolio');
 const contactRoutes = require('./api/routes/contact');
+const cors = require('cors');
 //const NewsRoutes = require('./api/routes/news')
 //const DematRoutes = require('./api/routes/demat')
 //const ConsultantPaymentRoutes = require('./api/routes/consultant_payment')
@@ -27,6 +28,7 @@ const contactRoutes = require('./api/routes/contact');
 //const CategoryRoutes = require ('./api/routes/category')
 
 mongoose.Promise = global.Promise;
+app.use(cors());
 app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
